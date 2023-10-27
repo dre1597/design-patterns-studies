@@ -1,4 +1,4 @@
-package org.example.singleton.singleThread;
+package org.example.singleton.singlethread;
 
 public final class Singleton {
   private static Singleton instance;

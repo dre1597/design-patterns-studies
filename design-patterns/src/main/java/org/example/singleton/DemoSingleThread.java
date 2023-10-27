@@ -1,6 +1,6 @@
 package org.example.singleton;
 
-import org.example.singleton.singleThread.Singleton;
+import org.example.singleton.singlethread.Singleton;
 
 public class DemoSingleThread {
   public static void main(String[] args) {
